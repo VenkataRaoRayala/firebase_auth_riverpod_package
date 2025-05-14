@@ -1,0 +1,24 @@
+name: firebase_auth_riverpod_package
+description: A reusable Firebase Authentication package using Riverpod.
+version: 0.0.1
+homepage: https://github.com/yourusername/firebase_auth_riverpod_package
+repository: https://github.com/yourusername/firebase_auth_riverpod_package
+issue_tracker: https://github.com/yourusername/firebase_auth_riverpod_package/issues
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_auth: ^4.16.0
+  firebase_core: ^2.24.0
+  flutter_riverpod: ^2.5.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
