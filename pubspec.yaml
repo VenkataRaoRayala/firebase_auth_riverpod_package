@@ -1,6 +1,6 @@
 name: firebase_auth_riverpod_package
 description: A reusable Firebase Authentication package using Riverpod.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/VenkataRaoRayala/firebase_auth_riverpod_package
 repository: https://github.com/VenkataRaoRayala/firebase_auth_riverpod_package
 issue_tracker: https://github.com/VenkataRaoRayala/firebase_auth_riverpod_package
